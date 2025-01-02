@@ -99,6 +99,9 @@ header .header-info {
     align-items: center;
     justify-content: center;
 }
+.fecha img {
+    max-width: 600px;
+}
 /* TODO AUIDO */
 .audiodiv {
     position: fixed;
